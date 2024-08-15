@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitStore", "FruitStore\FruitStore.csproj", "{0B676AFB-2D40-4B6E-A6E8-CCAB6B7EA9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification", "Notification\Notification.csproj", "{C7EA9E17-1617-4AB0-97A0-E538116BC142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B676AFB-2D40-4B6E-A6E8-CCAB6B7EA9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B676AFB-2D40-4B6E-A6E8-CCAB6B7EA9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B676AFB-2D40-4B6E-A6E8-CCAB6B7EA9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B676AFB-2D40-4B6E-A6E8-CCAB6B7EA9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EA9E17-1617-4AB0-97A0-E538116BC142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EA9E17-1617-4AB0-97A0-E538116BC142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EA9E17-1617-4AB0-97A0-E538116BC142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EA9E17-1617-4AB0-97A0-E538116BC142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

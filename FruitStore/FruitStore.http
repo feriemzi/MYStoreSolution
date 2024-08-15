@@ -1,0 +1,6 @@
+@FruitStore_HostAddress = http://localhost:5062
+
+GET {{FruitStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
